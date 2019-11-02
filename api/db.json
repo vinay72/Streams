@@ -8,9 +8,14 @@
     },
     {
       "title": "Video",
-      "description": "This is my best stream.",
+      "description": "This change was made by a Patch request.",
       "userId": "100678712219190809173",
       "id": 2
+    },
+    {
+      "title": "This is my stream.",
+      "description": "The Stream is about refactoring.",
+      "id": 4
     }
   ]
 }
