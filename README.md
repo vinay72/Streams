@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-#### 'JSON-SERVER
+### JSON-SERVER
  Go to the api folder and run the command 'npm start' and then open [http://localhost:3001/streams](http://localhost:3001/streams) to successfully run your json-server. See the db.json file for storing the data after you have created various streams.
 
 ### `yarn test`
