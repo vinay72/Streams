@@ -16,6 +16,7 @@ You will also see any lint errors in the console.
  Go to the api folder and run the command 'npm start' and then open [http://localhost:3001/streams](http://localhost:3001/streams) to successfully run your json-server. See the db.json file for storing the data after you have created various streams.
  
  ### RUNNING DEMO AT NODE SERVER
+ ![StreamCreate](https://user-images.githubusercontent.com/28500944/68092225-02219d00-feaf-11e9-928a-b2388749896c.png) <br> <br>
  ![StreamIndex](https://user-images.githubusercontent.com/28500944/68092108-d9e56e80-fead-11e9-98c2-afc3d19c2bbe.png) <br> <br>
 ![StreamEdit](https://user-images.githubusercontent.com/28500944/68092111-e2d64000-fead-11e9-86c0-c8b5532ff068.png) <br> <br>
 ![StreamDelete](https://user-images.githubusercontent.com/28500944/68092112-e5d13080-fead-11e9-967c-28309ec82138.png)<br> <br>
